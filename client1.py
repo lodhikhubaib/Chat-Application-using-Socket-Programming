@@ -5,7 +5,7 @@ from PIL import ImageTk, Image
 import threading
 
 # Server configuration
-SERVER_HOST = '192.168.1.10'
+SERVER_HOST = '172.16.87.39'
 SERVER_PORT = 5050
 
 class ChatClient:

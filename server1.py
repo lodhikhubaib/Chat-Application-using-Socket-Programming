@@ -3,7 +3,7 @@ import threading
 import hashlib
 
 # Server configuration
-HOST = '192.168.1.10'
+HOST = '172.16.87.39'
 PORT = 5050
 
 # Dictionary to store registered users
