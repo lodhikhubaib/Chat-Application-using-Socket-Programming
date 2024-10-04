@@ -7,6 +7,7 @@ The platform uses a client-to-client communication model, where connections are 
 Running the application is simple. Just install Tkinter, and use the following commands:
 
 python server.py
+
 python client.py
 
 Make sure to run both files simultaneously in separate terminals to establish a connection between the server and client.
