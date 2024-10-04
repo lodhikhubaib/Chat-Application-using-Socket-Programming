@@ -1,4 +1,4 @@
-Chat Application Using Socket Programming with GUI on Tkinter
+**Chat Application Using Socket Programming with GUI on Tkinter**
 
 Introducing a secure chat application built with Python’s socket programming, designed to provide robust user authentication and safeguard the confidentiality and integrity of all communications. This system allows users to register with unique credentials, securely log in, and engage in private conversations with other authenticated users.
 
